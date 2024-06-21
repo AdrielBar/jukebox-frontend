@@ -36,7 +36,7 @@
   text-align: right;
 
   display: inline-block;
-  float: right;
+  /*float: right;*/
   width: 50%;
 }
 
