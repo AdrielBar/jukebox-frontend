@@ -89,8 +89,9 @@ export const DevGuide = () => {
           </div>
         </div>
       </div>
+
       <div className={styles.footer}>
-        <p>Website by the UF Open Source Club</p>
+        <p>Website by the UF Open Source Club & Adriel L. Barzola</p>
       </div>
     </>
   )
